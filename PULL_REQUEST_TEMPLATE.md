@@ -14,7 +14,7 @@ Documentation link:
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
-- [ ] Infrastructure/operations concerns such as IaC, environment variables and secret handling, logging etc. is taken care of.
+- [ ] Infrastructure/operations concerns are taken care of.
 
 
 ### Pull request reviewer check list
@@ -22,4 +22,4 @@ Documentation link:
 * Does the PR solve the feature request or bug?
 * Is the code compliant with the code standard?
 * Is the documentation updated and understandable?
-* Is operation concerns taken care of, such as backup, logging and monitoring?
+* Are operation concerns taken care of, such as backup, logging and monitoring?
