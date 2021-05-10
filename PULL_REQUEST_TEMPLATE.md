@@ -5,9 +5,9 @@ Task link: <!-- link to task in Jira, Trello, Azure DevOps, etc -->
 
 Documentation link:
 
-### Sematic versioning (defaults to patch)
+### Sematic versioning
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [x] Patch (Bug fix) (non-breaking change which fixes an issue)
+- [ ] Patch (Bug fix) (non-breaking change which fixes an issue)
 - [ ] Minor (new feature that is backwards compatible)
 - [ ] Major (fix or feature that would cause existing functionality to change)
 
@@ -23,13 +23,12 @@ Documentation link:
 ### Pull request reviewer check list
 <!-- remove points not relevant for this PR -->
 * Does the PR solve the feature request or bug?
-* Is the code compliant with the code standard?
 * Is the documentation updated and understandable?
 * Are operation concerns taken care of, such as backup, logging and monitoring?
 
 ## As a reviewer I have
 - [ ] Tested/run the code locally
 - Reviewed the code to verify:
-  - [ ] No unused usings
+  - [ ] No unnecessary imports
   - [ ] Logical errors
   - [ ] Correct use of naming and coding conventions
