@@ -3,6 +3,6 @@
 
 Right now, Elaway is building amazing software to help electrify Europe, and we are hungry for more talents that can help us be the best.
 
-* [Start working at Elaway](https://career.elaway.io/)
+[Learn more](https://career.elaway.io/)
 
 ----
