@@ -1,34 +1,19 @@
-## Feature/bug description
-Description: <!-- describe if commit comment(s) is not self-explanatory -->
+<!-- Based on https://keepachangelog.com/en/1.0.0/
+INFO: Add a list under each relevant category with changes this PR introduces.
+NOTE: Feel free to remove unused titles for extra clarity
+EXAMPLE:
+    ### Added
+    - Link to button
+    ### Removed
+    - console.log in myFunction
+-->
 
-Task link: <!-- link to task in Jira, Trello, Azure DevOps, etc -->
+# Changelog
+<!-- You can add some general info here if needed -->
 
-Documentation link:
-
-### Sematic versioning
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Patch (Bug fix) (non-breaking change which fixes an issue)
-- [ ] Minor (new feature that is backwards compatible)
-- [ ] Major (fix or feature that would cause existing functionality to change)
-
-### Pull request checklist
-
-- [ ] My code follows the code style.
-- [ ] My change requires a change to the documentation.
-  - [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] Infrastructure/operations concerns are taken care of.
-
-
-### Pull request reviewer check list
-<!-- remove points not relevant for this PR -->
-* Does the PR solve the feature request or bug?
-* Is the documentation updated and understandable?
-* Are operation concerns taken care of, such as backup, logging and monitoring?
-
-## As a reviewer I have
-- [ ] Tested/run the code locally
-- Reviewed the code to verify:
-  - [ ] No unnecessary imports
-  - [ ] Logical errors
-  - [ ] Correct use of naming and coding conventions
+### Added <!-- for new features -->
+### Changed <!-- for changes in existing functionality -->
+### Deprecated <!-- for soon-to-be removed features -->
+### Removed <!-- for now removed features -->
+### Fixed <!-- for any bug fixes -->
+### Security <!-- in case of vulnerabilities -->
