@@ -12,7 +12,6 @@ EXAMPLE:
 <!-- You can add some general info here if needed -->
 
 ### Added <!-- for new features -->
-### Breaking <!-- for things that break -->
 ### Changed <!-- for changes in existing functionality -->
 ### Deprecated <!-- for soon-to-be removed features -->
 ### Removed <!-- for now removed features -->
